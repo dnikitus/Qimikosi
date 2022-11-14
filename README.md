@@ -1,2 +1,2 @@
-# Chemistry
+# Qimikosi (ქიმიკოსი)
  
